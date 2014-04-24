@@ -1,0 +1,23 @@
+{
+  "name": "yc-rev",
+  "version": "0.0.1",
+  "description": "this is a tool in yc for prefix file name with hash such as md5",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zhangyaochun/yc-rev.git"
+  },
+  "keywords": [
+    "yc",
+    "rev",
+    "tool"
+  ],
+  "author": "zhangyaochun",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/zhangyaochun/yc-rev/issues"
+  }
+}
